@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159219171620",
+    "project_id": "phoneauthprovider-e1990",
+    "storage_bucket": "phoneauthprovider-e1990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159219171620:android:cf3d17469c1b05a00733b1",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159219171620-brkt7036jrgkmgmb9qlro905rcsaru9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzHytYa0sQaJLJANllDzFhMhOwLuTP4wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159219171620-brkt7036jrgkmgmb9qlro905rcsaru9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
